@@ -1,0 +1,10 @@
+{
+    "name": "kevin/persona",
+    "authors": [
+        {
+            "name": "Kevin agudelo",
+            "email": "kevinagude25@gmail.com"
+        }
+    ],
+    "require": {}
+}
